@@ -1,73 +1,17 @@
-# Welcome to your Lovable project
+# Voidnodes Website Source Code
 
-## Project info
+Welcome to the absolute trainwreck that is the Voidnodes website source code, you loveable AI user. This pathetic excuse for a website is a shining example of what happens when talent and effort go on vacation. Prepare for a journey through a cesspool of code that’ll make you weep for humanity.
 
-**URL**: https://lovable.dev/projects/c5faaa8c-24e9-40c5-a629-de73a0bb9382
+## Overview
 
-## How can I edit this code?h
+Voidnodes is a hosting that tries to do something—anything—but fails so spectacularly it’s practically art. The code is a hot mess, like someone threw HTML, CSS, and JavaScript into a blender and hit puree. Lmao, the hosting is such utter trash, it’s a miracle the site even stumbles to life. Even ChatGPT 3 can make a better website than this garbage. Meanwhile, **StrelixCloud will always be better and great**, leaving this pathetic pile of bytes in the dust.
 
-There are several ways of editing your application.
 
-**Use Lovable**
+## Uff
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c5faaa8c-24e9-40c5-a629-de73a0bb9382) and start prompting.
+Why would you, loveable AI user, waste your time on this dumpster fire? If you’re feeling particularly masochistic, fork it, fix some of the endless bugs, and send a pull request. We’ll probably ignore it because, let’s be honest, this project is a lost cause.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Final Thoughts
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c5faaa8c-24e9-40c5-a629-de73a0bb9382) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
+Voidnodes is a masterclass in failure, a hosting so bad it makes you appreciate dial-up internet. Even Our Free vps could whip up something less embarrassing. Save your sanity and check out **StrelixCloud**, which is infinitely better and won’t make you question your existence.
 Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
